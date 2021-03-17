@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.Logo{
+  font-size: 32px;
+  margin-left: 15px;
+}
+.Navbar{
+  background-color: #20639B;
+}
+.Nav-Btn{
+  color : rgb(164, 237, 62);
+  font-weight: bold;
+  font-size: 18px;
+  margin: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+
+
+.Nav-Btn:hover{
+  color: #ffff;
+  text-decoration: none;
+  font-size: 18px;
+  border-bottom: 5px solid royalblue;
+}
