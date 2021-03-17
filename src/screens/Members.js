@@ -1,11 +1,11 @@
-import React from 'react'
+import React from "react";
 
-function Members() {
-    return (
-        <div>
-            <p>Member</p>
-        </div>
-    )
-}
+const Members = () => {
+  return (
+    <div>
+      <p>Member</p>
+    </div>
+  );
+};
 
 export default Members;
